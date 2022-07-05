@@ -1,1 +1,2 @@
 Add directly from github. simulate remote commit
+Changes has been made
