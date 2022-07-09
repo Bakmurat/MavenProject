@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("new info Fara and Dasha");
         System.out.println("I had a great date today. I loved it.");
         System.out.println("Fara making more changes");
+        System.out.println("Fara loves making changes. Its her fav job");
     }
 }
