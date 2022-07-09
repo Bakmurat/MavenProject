@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("Developing Hello feature");
         System.out.println("Local repo to Github");
         System.out.println("Doing more work");
+        System.out.println("new info Fara and Dasha");
     }
 }
